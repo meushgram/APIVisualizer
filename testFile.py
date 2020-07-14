@@ -1,3 +1,4 @@
 #testpri
 # file
-print("test")
+for i in range(100):
+    print("Test")
